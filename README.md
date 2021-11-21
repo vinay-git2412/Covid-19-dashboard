@@ -22,6 +22,4 @@ I'm a Data science enthusiastic...
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sai-vinay-matcha-653661196)
 
-## Screenshots
-
-[][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.journalism.co.uk%2Fnews%2Ftableau-latest-sponsor-of-news-rewired--connected-journalism%2Fs2%2Fa546034%2F&psig=AOvVaw2gkgHpNxJOKVWDY-DOj-wu&ust=1637575481911000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiH-ZqaqfQCFQAAAAAdAAAAABAN)]
+![App Screenshot](https://www.journalism.co.uk/assets/130/Tableau_logo_crop.jpg_resized_460_.jpeg)
