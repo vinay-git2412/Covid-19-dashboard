@@ -24,4 +24,4 @@ I'm a Data science enthusiastic...
 
 ## Screenshots
 
-[!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.journalism.co.uk%2Fnews%2Ftableau-latest-sponsor-of-news-rewired--connected-journalism%2Fs2%2Fa546034%2F&psig=AOvVaw2gkgHpNxJOKVWDY-DOj-wu&ust=1637575481911000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiH-ZqaqfQCFQAAAAAdAAAAABAN)
+1[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.journalism.co.uk%2Fnews%2Ftableau-latest-sponsor-of-news-rewired--connected-journalism%2Fs2%2Fa546034%2F&psig=AOvVaw2gkgHpNxJOKVWDY-DOj-wu&ust=1637575481911000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiH-ZqaqfQCFQAAAAAdAAAAABAN)
